@@ -8,7 +8,7 @@ body {
 
 .styled-paragraph {
   font-family: 'Arial', sans-serif; /* Changes the font */
-  font-style: italic;  /* Changes the font style to italic */
+  font-style: cursive;  /* Changes the font style to italic */
   font-weight: bold;   /* Makes the font bold */
   font-size: 18px;     /* Changes the font size */
   color: #333;         /* Changes the font color */
